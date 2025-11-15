@@ -15,6 +15,5 @@ Interview Preparation: Equip yourself with real-world data analysis experiences 
 
 ## DATABASE SCHEMA:
 
-
-
+![image alt](https://github.com/danushmanimaran007-code/MUSIC-STORE-ANALYSIS-SQL-PROJECT/blob/fb3ecbbb4834b4c62274a8c22ad495fd7caf0220/schema_diagram.png)
 
